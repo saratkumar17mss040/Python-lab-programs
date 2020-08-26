@@ -3,3 +3,5 @@ def reverse(arg):
         return not (arg)
     else:
         return 'boolean expected'
+
+print(reverse(True))

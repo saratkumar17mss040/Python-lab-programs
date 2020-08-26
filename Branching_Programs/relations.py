@@ -8,3 +8,5 @@ def relation_to_luke(name):
     elif name == 'R2D2':
         return 'Luke, I am your droid.'
 
+
+print(relation_to_luke("Darth Vader"))

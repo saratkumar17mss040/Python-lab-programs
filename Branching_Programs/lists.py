@@ -10,7 +10,7 @@ for i in my_list:
         number_list.append(i)
     else:
         float_list.append(i)
-    
+
 print(string_list)
 print(number_list)
 print(float_list)

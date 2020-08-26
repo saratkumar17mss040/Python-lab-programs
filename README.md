@@ -11,5 +11,13 @@
 9. Write a python program to find the average of 10 numbers - average.py
 10. Write a python program to find the factorial of a given number - factorial.py
 11. Write a python program to traverse a list and print the values in it - printList.py
-
-
+12. https://edabit.com/challenge/NebFhjXTn8NEbhYXY - multiplesOf100.py
+13. Write a python program to check whether the given number is greater than 50 and also divisible by 2 using nested if else - nested.py
+14. Write a python program to use break statement - seasons.py
+15. Write a python program to use continue statement - evenNumbers.py
+16. Write a python program to print first 20 natural numbers using while loop - naturalNumbers.py
+17. Write a python program to print the square of all numbers from 1 to 10 - square.py
+18. Write a python program to get the sum of digits - sumOfDigits.py
+19. Write a python program to read three numbers (a,b,c) and check how many numbers between ‘a’ and ‘b’ are divisible by ‘c’ - divisible.py
+20. Write a python program to print right angle triangle pattern using * - triangle.py
+21. write a python program to remove vowels in a word - vowels.py
