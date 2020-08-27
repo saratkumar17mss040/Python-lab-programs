@@ -20,4 +20,15 @@
 18. Write a python program to get the sum of digits - sumOfDigits.py
 19. Write a python program to read three numbers (a,b,c) and check how many numbers between ‘a’ and ‘b’ are divisible by ‘c’ - divisible.py
 20. Write a python program to print right angle triangle pattern using * - triangle.py
-21. write a python program to remove vowels in a word - vowels.py
+21. Write a python program to remove vowels in a word - vowels.py
+22. Write a python program to find absolute value using function - absolute.py
+23. Wrtie a python program to demonstrate the use of variable length arguments - arbitary.py
+24. Write a python program to demonstrate the use of default arguments - default.py
+25. Write a python program to print only even numbers using function - evenNumbers.py
+26. Write a python program for finding the factorial of a given number - factorial.py
+27. Write a python program to demonstrate the use of a simple function - greet.py
+28. Write a python program to demonstrate the use of keyword arguments - keyword.py
+29. Write a python program to print a simple list using functions - list.py
+30. Write a python program to find the max values in a list using function - max.py 
+31. Write a python program to demonstrate the use of pass - pass.py
+
