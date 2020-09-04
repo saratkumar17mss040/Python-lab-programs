@@ -31,4 +31,22 @@
 29. Write a python program to print a simple list using functions - list.py
 30. Write a python program to find the max values in a list using function - max.py 
 31. Write a python program to demonstrate the use of pass - pass.py
+32. Given a string of odd length greater 7, return a string made of the middle three chars of a given String - middle.py
+33. Given 2 strings, s1 and s2, create a new string by appending s2 in the middle of s1 - append.py
+34. Arrange string characters such that lowercase letters should come first - lowerCase.py
+35. Count all lower case, upper case, digits, and special symbols from a given string - counter.py
+36. Find all occurrences in a given string ignoring the case - occurence.py
+37. Given an input string, count occurrences of all characters within a string and return the details as dictionary - occurences.py 
+38. Reverse a given string - reverse.py
+39. Split a given string on asterisk into several substrings and display each substring - asterisk.py
+40. Check whether the given string startswith 'h' - starts.py
+41. Write a python program to concatenate strings in different ways - concatenation.py
+42. Write a python program to demonstrate the use of format method for fomatting strings - defaultFormatting.py
+43. Write a python program to demonstrate the use of escape sequences - escapeChar.py
+44. Write a python program to demonstrate the use of format method to format numbers - formattingNumbers.py
+45. Write a python program to demonstrate the use of format method with passing arguments in it - formattingThree.py
+46. Write a python program to return a string such that the string is arranged from lowercase letters and then uppercase letters - lowerCase.py
+47. Write a python program to repeat a givent string multiple times - repeat.py
+
+
 
