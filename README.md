@@ -47,6 +47,13 @@
 45. Write a python program to demonstrate the use of format method with passing arguments in it - formattingThree.py
 46. Write a python program to return a string such that the string is arranged from lowercase letters and then uppercase letters - lowerCase.py
 47. Write a python program to repeat a givent string multiple times - repeat.py
-
-
-
+48. Write a python program to create a simple list and nested list with different datatypes - nestedList.py
+49. Write a python program to demonstrate the use of indexing, negative indexing, accessing individual elements - indexing.py
+50. Write a python program to add elements to an existing list from user input - add.py
+51. Write a python program to use + and * to concatenate and repeat similar elements - operatorsList.py
+52. Write a python program to use insert() method on a list  - insertList.py
+53. Write a python program to use pop(), del , remove(), clear() methods - deletions.py
+54. Write a python program to reverse a given list - reverseList.py
+55. Write a python program to convert a givent tuple to list - conversionToList.py
+56. Write a python program to demonstrate the use of extend() method using list - extend.py
+57. Wrtie a python program to demonstrate the use of membership operator - membership.py
