@@ -1,4 +1,4 @@
-# pop(), del, remove, clear()
+# pop(), del, remove(), clear()
 def deletions(my_list):
     #my_list without any operations on it
     print(my_list)

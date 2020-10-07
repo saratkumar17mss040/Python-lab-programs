@@ -19,7 +19,7 @@
 17. Write a python program to print the square of all numbers from 1 to 10 - square.py
 18. Write a python program to get the sum of digits - sumOfDigits.py
 19. Write a python program to read three numbers (a,b,c) and check how many numbers between ‘a’ and ‘b’ are divisible by ‘c’ - divisible.py
-20. Write a python program to print right angle triangle pattern using * - triangle.py
+20. Write a python program to print right angle triangle pattern using \* - triangle.py
 21. Write a python program to remove vowels in a word - vowels.py
 22. Write a python program to find absolute value using function - absolute.py
 23. Wrtie a python program to demonstrate the use of variable length arguments - arbitary.py
@@ -29,14 +29,14 @@
 27. Write a python program to demonstrate the use of a simple function - greet.py
 28. Write a python program to demonstrate the use of keyword arguments - keyword.py
 29. Write a python program to print a simple list using functions - list.py
-30. Write a python program to find the max values in a list using function - max.py 
+30. Write a python program to find the max values in a list using function - max.py
 31. Write a python program to demonstrate the use of pass - pass.py
 32. Given a string of odd length greater 7, return a string made of the middle three chars of a given String - middle.py
 33. Given 2 strings, s1 and s2, create a new string by appending s2 in the middle of s1 - append.py
 34. Arrange string characters such that lowercase letters should come first - lowerCase.py
 35. Count all lower case, upper case, digits, and special symbols from a given string - counter.py
 36. Find all occurrences in a given string ignoring the case - occurence.py
-37. Given an input string, count occurrences of all characters within a string and return the details as dictionary - occurences.py 
+37. Given an input string, count occurrences of all characters within a string and return the details as dictionary - occurences.py
 38. Reverse a given string - reverse.py
 39. Split a given string on asterisk into several substrings and display each substring - asterisk.py
 40. Check whether the given string startswith 'h' - starts.py
@@ -50,10 +50,21 @@
 48. Write a python program to create a simple list and nested list with different datatypes - nestedList.py
 49. Write a python program to demonstrate the use of indexing, negative indexing, accessing individual elements - indexing.py
 50. Write a python program to add elements to an existing list from user input - add.py
-51. Write a python program to use + and * to concatenate and repeat similar elements - operatorsList.py
-52. Write a python program to use insert() method on a list  - insertList.py
+51. Write a python program to use + and \* to concatenate and repeat similar elements - operatorsList.py
+52. Write a python program to use insert() method on a list - insertList.py
 53. Write a python program to use pop(), del , remove(), clear() methods - deletions.py
 54. Write a python program to reverse a given list - reverseList.py
 55. Write a python program to convert a givent tuple to list - conversionToList.py
 56. Write a python program to demonstrate the use of extend() method using list - extend.py
-57. Wrtie a python program to demonstrate the use of membership operator - membership.py
+57. Write a python program to demonstrate the use of membership operator - membership.py
+58. Write a python program to demonstrate the use of general tuple with multiple data types - tuple.py
+59. Write a python program to demonstrate the use of general tuple to show types - tuple2.py
+60. Write a python program to demonstrate that tuples are immutable - timmutable.py
+61. Write a python program to demonstrate concatenation in tuple - tconcat.py
+62. Write a python program to demonstrate repetition in tuple - trepeat.py
+63. Write a python program to demonstrate length in tuple - tlength.py
+64. Write a python program to demonstrate membership in tuple - tmembership.py
+65. Write a python program to demonstrate for loop in tuple - tfor.py
+66. Write a python program to demonstrate the use of zip method in tuple - tzip.py
+67. Write a python program to demonstrate the use of min and max in tuple - tminandmax.py
+68. Write a python program to convert a list to tuple - ltotuple.py
