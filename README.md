@@ -67,4 +67,4 @@
 65. Write a python program to demonstrate for loop in tuple - tfor.py
 66. Write a python program to demonstrate the use of zip method in tuple - tzip.py
 67. Write a python program to demonstrate the use of min and max in tuple - tminandmax.py
-68. Write a python program to convert a list to tuple - ltotuple.py
+68. Write a python program to convert a list to tuple using tuple method - ltotuple.py
