@@ -77,4 +77,4 @@
 75. Write a python program to traverse a nested dictionary using for loop - dictionary7.py
 76. Write a python program to use membership operator in dictionary - dictionary8.py
 77. Write a python program to use len() method in order to find the length of the dictionary - dictionary9.py
-78. Write a python program to sort a given dictionary both in increasing and decreasing order - diciionary10.py
+78. Write a python program to sort a given dictionary both in increasing and decreasing order - dictionary10.py
