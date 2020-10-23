@@ -68,3 +68,13 @@
 66. Write a python program to demonstrate the use of zip method in tuple - tzip.py
 67. Write a python program to demonstrate the use of min and max in tuple - tminandmax.py
 68. Write a python program to convert a list to tuple using tuple function - ltotuple.py
+69. Write a python program to demonstrate the creation of dictionary in python - dictionary1.py
+70. Write a python program to copy a dictionary using copy() in python - dictionary2.py
+71. Write a python program to create a dictionary using dict() constructor - dictionary3.py
+72. Write a python program to access dictionary values - dcitionary4.py
+73. Write a python program to access and update dictionary values - dictionary5.py
+74. Write a python program to remove or delete values using pop(),popItems(),clear(),del - dictionary6.py
+75. Write a python program to traverse a nested dictionary using for loop - dictionary7.py
+76. Write a python program to use membership operator in dictionary - dictionary8.py
+77. Write a python program to use len() method in order to find the length of the dictionary - dictionary9.py
+78. Write a python program to sort a given dictionary both in increasing and decreasing order - diciionary10.py
