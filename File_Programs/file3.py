@@ -1,0 +1,8 @@
+f = open("sample.txt")
+print("Reading relative file paths")
+print(f.read())
+print("Current position of the file")
+print(f.tell())
+print("Moves the cursor to the 6th position")
+print(f.seek(6))
+print(f.read(13))

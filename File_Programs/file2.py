@@ -1,0 +1,6 @@
+f = open("sample.txt", mode="r", encoding="utf-8")
+f2 = open("sample3.txt", mode="w", encoding="utf-8")
+f2.write(f.read())
+f2 = open("sample3.txt", mode="r", encoding="utf-8")
+print("Reading contents present inside sample3.txt:")
+print(f2.read())

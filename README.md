@@ -78,3 +78,9 @@
 76. Write a python program to use membership operator in dictionary - dictionary8.py
 77. Write a python program to use len() method in order to find the length of the dictionary - dictionary9.py
 78. Write a python program to sort a given dictionary both in increasing and decreasing order - dictionary10.py
+79. Write a python program to read a file - file1.py
+80. Write a python program to write a file - file2.py
+81. Write a python program to use seek and tell methods in a file - file3.py
+82. Write a python program to delete a file - file4.py
+83. Write a python program to rename a file - file5.py
+
