@@ -83,4 +83,18 @@
 81. Write a python program to use seek and tell methods in a file - file3.py
 82. Write a python program to delete a file - file4.py
 83. Write a python program to rename a file - file5.py
+84. Write a python program to get the current working directory - dir1.py
+85. Write a python program to check whether the user given input is equal to the current working directory or not - dir2.py
+86. Write a python program make a directory inside the current working directory - dir3.py
+87. Write a python program to make a directory based on the user given absolute paths - dir4.py
+88. Write a python program to rename the directory based on the current working directory - dir5.py
+89. Write a python program to rename the directory based on the absolute path directory - dir6.py
+90. Write a python program to remove the directory based on the current working directory - dir7.py
+91. Write a python program to remove the directory based on the absolute path directory - dir8.py
+
+
+
+
+
+
 
