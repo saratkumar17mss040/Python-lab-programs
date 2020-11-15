@@ -91,8 +91,13 @@
 89. Write a python program to rename the directory based on the absolute path directory - dir6.py
 90. Write a python program to remove the directory based on the current working directory - dir7.py
 91. Write a python program to remove the directory based on the absolute path directory - dir8.py
-
-
+92. Write a python program to demonstrate divide by zero error - ex1.py
+93. Write a python program to demonstrate syntax error - ex2.py
+94. Write a python program to handle exception using try except - ex3.py
+95. Write a python program to handle file not found error - ex4.py
+96. Write a python program in order to create a user defined exception - ex5.py
+97. Write a python program to handle multiple exception - ex6.py
+98. Write a python program to use try except finally - ex7.py
 
 
 
