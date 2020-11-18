@@ -1,3 +1,5 @@
+## All Pr's are welcome !
+
 # Python -Lab Programs
 
 1. https://edabit.com/challenge/8pDH2SRutPoaQghgc - relations.py
@@ -99,7 +101,16 @@
 97. Write a python program to handle multiple exception - ex6.py
 98. Write a python program to use try except finally - ex7.py
 99. Write a python program to demonstrate a simple class creation - cls1.py
-100. Write a python program to 
+100. Write a python program to demonstrate a simple class creation with self - cls2.py
+101. Write a python program to demonstrate object as argument - cls3.py
+102. Write a python program to demonstrate object as argument with default values - cls4.py
+103. Write a python program to demonstrate inheritance based on person and student with __init__() method - cls5.py
+104. Write a python program to demonstrate inheritance - inheriting normal methods with super() method - cls6.py
+105. Write a python program to demonstrate method overriding - cls7.py
+106. Write a python program to demonstrate method overriding  with super() - cls8.py
+107. Write a python program to demonstrate encapsulation with protected members - cls9.py
+108. Write a python program to demonstrate encapsulation with private members - cls10.py
+
 
 
 
